@@ -1,2 +1,2 @@
 const accountId = 12354
-let 
+let account
